@@ -202,79 +202,19 @@ This will not be a model, but rather will be used as the `reaction` field's subd
 
 * `DELETE` to pull and remove a reaction by the reaction's `reactionId` value
 
-## Grading Requirements
+-- 
+## Video URL:
 
-> **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
->
-> * A repository that has no code
->
-> * A repository that includes a unique name but nothing else
->
-> * A repository that includes only a README file but nothing else
->
-> * A repository that only includes starter code
+https://watch.screencastify.com/v/I8FzKE4hcsFguFN9JFhC
 
-This Challenge is graded based on the following criteria:
 
-### Deliverables: 10%
+## Snippets:
+<img width="1262" alt="Screenshot 2023-05-23 at 12 21 36 AM" src="https://github.com/JoseneyJ/SocialAPI18/assets/119374215/ffba071f-5a20-4411-b46e-ffd94d024f39">
 
-* Your GitHub repository containing your application code.
+<img width="1262" alt="Screenshot 2023-05-23 at 12 21 44 AM" src="https://github.com/JoseneyJ/SocialAPI18/assets/119374215/40d81f30-a047-43e7-b7e3-9f86948849fc">
 
-### Walkthrough Video: 37%
+<img width="1262" alt="Screenshot 2023-05-23 at 12 22 01 AM" src="https://github.com/JoseneyJ/SocialAPI18/assets/119374215/105405b3-4ed0-4cbb-9975-878197bf1194">
 
-* A walkthrough video that demonstrates the functionality of the social media API must be submitted, and a link to the video should be included in your README file.
+<img width="1262" alt="Screenshot 2023-05-23 at 12 21 12 AM" src="https://github.com/JoseneyJ/SocialAPI18/assets/119374215/f78ed2d6-65b1-4e49-a268-5b27b660f4fe">
 
-  * The walkthrough video must show all of the technical acceptance criteria being met.
-
-  * The walkthrough video must demonstrate how to start the application’s server.
-
-  * The walkthrough video must demonstrate GET routes for all users and all thoughts being tested in Insomnia.
-
-  * The walkthrough video must demonstrate GET routes for a single user and a single thought being tested in Insomnia.
-
-  * The walkthrough video must demonstrate POST, PUT, and DELETE routes for users and thoughts being tested in Insomnia.
-
-  * Walkthrough video must demonstrate POST and DELETE routes for a user’s friend list being tested in Insomnia.
-
-  * Walkthrough video must demonstrate POST and DELETE routes for reactions to thoughts being tested in Insomnia.
-
-### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the preceding acceptance criteria plus the following:
-
-  * Uses the [Mongoose package](https://www.npmjs.com/package/mongoose) to connect to a MongoDB database.
-
-  * Includes User and Thought models outlined in the Challenge instructions.
-
-  * Includes schema settings for User and Thought models as outlined in the Challenge instructions.
-
-  * Includes Reactions as the `reaction` field's subdocument schema in the Thought model.
-
-  * Uses functionality to format queried timestamps properly.
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains a high-quality README with description and a link to a walkthrough video.
-
-### Bonus: +10 Points
-
-* Application deletes a user's associated thoughts when the user is deleted.
-
-## Review
-
-You are required to submit BOTH of the following for review:
-
-* A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
----
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+<img width="1262" alt="Screenshot 2023-05-23 at 12 21 22 AM" src="https://github.com/JoseneyJ/SocialAPI18/assets/119374215/199ac97f-4641-4546-a690-de2e08803168">
